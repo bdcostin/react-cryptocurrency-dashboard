@@ -1,7 +1,7 @@
 {
   "name": "crypto-dashboard",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "cryptocompare": "^1.0.0",
     "react": "^16.8.6",
@@ -29,5 +29,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/bdcostin/react-cryptocurrency-dashboard.git",
+  "author": "bdcostin <bailey.costin@gmail.com>",
+  "license": "MIT"
 }
